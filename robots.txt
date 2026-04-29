@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-xg11pv.tidytile.com/sitemap.xml
